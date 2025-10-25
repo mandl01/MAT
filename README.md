@@ -10,3 +10,5 @@
 | 8.10.2025    | 18 - Vzajemna poloha primky a roviny v prostoru, odchylky primek a rovin, vzdalenost v analyticke geometrii_MO05   |
 | 15.10.2025    | 01 - Výrazy, mocniny, odmocniny, iracionální rovnice   |
 | 22.10.2025    | 02 - Soustavy rovnic a nerovnic, slovni ulohy vedouci k soustave rovnic   |
+| 29.10.2025    | 03 - Kvadraticke rovnice, slovni ulohy, vztahy mezi koreny a koeficienty_MO21   |
+| 5.11.2025    | 04 - Kvadraticka funkce, graficke reseni kvadraticke rovnice_MO04   |
