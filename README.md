@@ -12,4 +12,6 @@
 | 22.10.2025    | 02 - Soustavy rovnic a nerovnic, slovni ulohy vedouci k soustave rovnic   |
 | 29.10.2025    | 03 - Kvadraticke rovnice, slovni ulohy, vztahy mezi koreny a koeficienty_MO21   |
 | 5.11.2025    | 04 - Kvadraticka funkce, graficke reseni kvadraticke rovnice_MO04   |
+| 10.11.2025    | 23 Posloupnosti a řady_MO13   |
 | 12.11.2025    | 05 - Absolutni hodnota v linearnich fcich, rcich, nercich, grafy fci s absolutnimi hodnotami_MO27   |
+| 19.11.2025    | 06 - Linearni lomena funkce a mocninne funkce_MO07   |
