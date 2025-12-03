@@ -15,3 +15,5 @@
 | 10.11.2025    | 23 Posloupnosti a řady_MO13   |
 | 12.11.2025    | 05 - Absolutni hodnota v linearnich fcich, rcich, nercich, grafy fci s absolutnimi hodnotami_MO27   |
 | 19.11.2025    | 06 - Linearni lomena funkce a mocninne funkce_MO07   |
+| 26.11.2025    | 07 - Goniometricke rovnice, uziti gon. vzorcu_MO30   |
+| 3.12.2025    | 08 - Goniometricke funkce a jejich grafy_MO01   |
