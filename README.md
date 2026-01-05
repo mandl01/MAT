@@ -8,12 +8,15 @@
 | 30.9.2025    | 22 - Analyticke vyjadreni paraboly_MO2   |
 | 3.10.2025    | 17 - Operace s vektory, analyticke vyjadreni primky v rovine a v prostoru_MO25   |
 | 8.10.2025    | 18 - Vzajemna poloha primky a roviny v prostoru, odchylky primek a rovin, vzdalenost v analyticke geometrii_MO05   |
-| 15.10.2025    | 01 - Výrazy, mocniny, odmocniny, iracionální rovnice   |
-| 22.10.2025    | 02 - Soustavy rovnic a nerovnic, slovni ulohy vedouci k soustave rovnic   |
-| 29.10.2025    | 03 - Kvadraticke rovnice, slovni ulohy, vztahy mezi koreny a koeficienty_MO21   |
+| 15.10.2025   | 01 - Výrazy, mocniny, odmocniny, iracionální rovnice   |
+| 22.10.2025   | 02 - Soustavy rovnic a nerovnic, slovni ulohy vedouci k soustave rovnic   |
+| 29.10.2025   | 03 - Kvadraticke rovnice, slovni ulohy, vztahy mezi koreny a koeficienty_MO21   |
 | 5.11.2025    | 04 - Kvadraticka funkce, graficke reseni kvadraticke rovnice_MO04   |
-| 10.11.2025    | 23 Posloupnosti a řady_MO13   |
-| 12.11.2025    | 05 - Absolutni hodnota v linearnich fcich, rcich, nercich, grafy fci s absolutnimi hodnotami_MO27   |
-| 19.11.2025    | 06 - Linearni lomena funkce a mocninne funkce_MO07   |
-| 26.11.2025    | 07 - Goniometricke rovnice, uziti gon. vzorcu_MO30   |
+| 10.11.2025   | 23 Posloupnosti a řady_MO13   |
+| 12.11.2025   | 05 - Absolutni hodnota v linearnich fcich, rcich, nercich, grafy fci s absolutnimi hodnotami_MO27   |
+| 19.11.2025   | 06 - Linearni lomena funkce a mocninne funkce_MO07   |
+| 26.11.2025   | 07 - Goniometricke rovnice, uziti gon. vzorcu_MO30   |
 | 3.12.2025    | 08 - Goniometricke funkce a jejich grafy_MO01   |
+| 7.1.2026     | 24 - Operace s kombinacnimi cisly a s faktorialy, binomcika veta_MO19   |
+| 7.1.2026     | 25 - Kombinatorika, slovni ulohy z kombinatoriky_MO08   |
+| 7.1.2026     | 26 - Pravdepodobnost_MO03   |
