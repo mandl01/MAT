@@ -20,3 +20,5 @@
 | 7.1.2026     | 24 - Operace s kombinacnimi cisly a s faktorialy, binomcika veta_MO19   |
 | 7.1.2026     | 25 - Kombinatorika, slovni ulohy z kombinatoriky_MO08   |
 | 7.1.2026     | 26 - Pravdepodobnost_MO03   |
+| 21.1.2026     | 09 - Exponencialni funkce a exponencialni rovnice_MO18   |
+| 28.1.2026     | 10 - Logaritmicke funkce a logaritmicka rovnice, logaritmus_MO11   |
