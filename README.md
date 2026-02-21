@@ -21,4 +21,8 @@
 | 7.1.2026     | 25 - Kombinatorika, slovni ulohy z kombinatoriky_MO08   |
 | 7.1.2026     | 26 - Pravdepodobnost_MO03   |
 | 21.1.2026     | 09 - Exponencialni funkce a exponencialni rovnice_MO18   |
-| 28.1.2026     | 10 - Logaritmicke funkce a logaritmicka rovnice, logaritmus_MO11   |
+| 6.2.2026     | 11 - Ulohy na aplikaci Pythagorovy vety nebo Euklidovych vet, vypocty v pravouhlem trojuhelniku_MO14   |
+| 11.2.2026     | 12 - Uziti trigonometrie v praxi, ulohy o obecnem trojuhelniku, popr. ctyruhelniku, resene uzitim trigonometrie_MO17   |
+| 18.2.2026     | 13 - Komplexni cisla_MO24   |
+| 25.2.2026     | 14 - Metricke vztahy utvaru v prostoru, obsahy, objemy, povrchy_MO23   |
+| 4.3.2026     | 15 - Kontstrukcni ulohy_MO20   |
