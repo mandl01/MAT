@@ -7,7 +7,6 @@
 |**Bod**|základní geometrický objekt (0D)|
 |**Přímka**|nekonečná, určena dvěma body (1D)|
 |**Rovina**|nekonečná plocha, určena třemi různými body, které neleží na jedné přímce (2D)|
-
 ### Určení přímky v prostoru
 
 Přímka je jednoznačně určena:

@@ -6,13 +6,12 @@ Zavedeme imaginární jednotku: $$\boxed{i^2 = -1, \quad i = \sqrt{-1}}$$
 
 **Algebraický (základní) tvar:** $$z = a + bi, \quad a, b \in \mathbb{R}$$
 
-|Symbol|Název|Popis|
-|---|---|---|
-|$a = \text{Re}(z)$|reálná část|„klasická" složka|
-|$b = \text{Im}(z)$|imaginární část|koeficient u $i$|
-|$\bar{z} = a - bi$|číslo sdružené|změníme znaménko imaginární části|
-|$\|z\| = \sqrt{a^2 + b^2}$|absolutní hodnota (modul)|vzdálenost od počátku v Gaussově rovině|
-
+| Symbol                     | Název                     | Popis                                   |
+| -------------------------- | ------------------------- | --------------------------------------- |
+| $a = \text{Re}(z)$         | reálná část               | „klasická" složka                       |
+| $b = \text{Im}(z)$         | imaginární část           | koeficient u $i$                        |
+| $\bar{z} = a - bi$         | číslo sdružené            | změníme znaménko imaginární části       |
+| $\|z\| = \sqrt{a^2 + b^2}$ | absolutní hodnota (modul) | vzdálenost od počátku v Gaussově rovině |
 ### Speciální případy
 
 |Podmínka|Typ čísla|
@@ -57,13 +56,13 @@ Im
 
 Mocniny $i$ se opakují s periodou 4:
 
-|Exponent|Výsledek|
-|---|---|
-|$i^0 = 1$||
-|$i^1 = i$||
-|$i^2 = -1$||
-|$i^3 = -i$||
-|$i^4 = 1$|(cyklus se opakuje)|
+| Exponent | Výsledek            |
+| -------- | ------------------- |
+| $i^0$    | 1                   |
+| $i^1$    | i                   |
+| $i^2$    | -1                  |
+| $i^3$    | -i                  |
+| $i^4$    | (cyklus se opakuje) |
 
 **Jak vypočítat $i^n$ pro velké $n$:** $$i^n = i^{n \mod 4}$$
 
@@ -145,7 +144,6 @@ Převod je přímý z goniometrického tvaru – místo $(\cos\varphi + i\sin\va
 |Exponenciální|$z = r \cdot e^{i\varphi}$|
 
 ---
-
 ## 24.7 Operace v goniometrickém tvaru
 
 Nechť $z_1 = r_1(\cos\varphi_1 + i\sin\varphi_1)$ a $z_2 = r_2(\cos\varphi_2 + i\sin\varphi_2)$.
@@ -163,13 +161,11 @@ $$\frac{z_1}{z_2} = \frac{r_1}{r_2} \bigl(\cos(\varphi_1-\varphi_2) + i\sin(\var
 > Moduly se **dělí**, argumenty se **odčítají**.
 
 ---
-
 ## 24.8 Moivreova věta – mocnění
 
 $$\boxed{z^n = r^n(\cos(n\varphi) + i\sin(n\varphi))}$$
 
 **Postup mocnění:**
-
 1. Převeď $z$ do goniometrického tvaru
 2. Modul umocni: $r^n$
 3. Argument vynásob: $n\varphi$
@@ -180,7 +176,6 @@ $$\boxed{z^n = r^n(\cos(n\varphi) + i\sin(n\varphi))}$$
 > ✏️ **Příklad (z PDF – příklad 9c):** $(1+i)^6$ $r = \sqrt{2}$, $\varphi = 45°$ $(1+i)^6 = (\sqrt{2})^6(\cos(6 \cdot 45°) + i\sin(270°)) = 8(0 + i(-1)) = -8i$
 
 ---
-
 ## 24.9 Odmocňování – n-té kořeny komplexního čísla
 
 $$\boxed{\sqrt[n]{z} = \sqrt[n]{r} \left(\cos\frac{\varphi + 2k\pi}{n} + i\sin\frac{\varphi + 2k\pi}{n}\right), \quad k = 0, 1, 2, \ldots, n-1}$$
@@ -283,7 +278,6 @@ Podmínky na modul $|z - z_0|$ popisují **kružnice** nebo **kruhy** se střede
 **Podmínka $|z - z_1| \leq |z - z_2|$** = množina bodů bližších (nebo stejně vzdálených) k $z_1$ než k $z_2$ = polorovinu (přímka je osa úsečky $z_1 z_2$).
 
 ---
-
 ## 24.15 Rychlý přehled – vzorce na jednom místě
 
 ```

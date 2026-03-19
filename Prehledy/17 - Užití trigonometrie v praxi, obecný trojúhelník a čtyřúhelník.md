@@ -1,17 +1,8 @@
-> **Témata ke zvládnutí:**
-> 
-> - Vlastnosti trojúhelníku, čtyřúhelníku, pravidelného $n$-úhelníku
-> - Sinová věta
-> - Kosinová věta
-> - Praktické aplikace trigonometrie
-
----
-
 ## 17.1 Základní trigonometrické funkce v pravoúhlém trojúhelníku
 
 Pro pravoúhlý trojúhelník s pravým úhlem u $C$, přeponou $c$ a odvěsnami $a$, $b$:
 
-$$\sin \alpha = \frac{a}{c} \qquad \cos \alpha = \frac{b}{c} \qquad \tan \alpha = \frac{a}{b} \qquad \cotg \alpha = \frac{b}{a}$$
+$$\sin \alpha = \frac{a}{c} \qquad \cos \alpha = \frac{b}{c} \qquad \tan \alpha = \frac{a}{b} \qquad \cot \alpha = \frac{b}{a}$$
 
 ### Výškový a hloubkový úhel:
 
@@ -103,7 +94,7 @@ Analogicky $\beta \approx 51°49'$, $\gamma = 180° - \alpha - \beta \approx 102
 
 Ze sinové věty: $$\cos 60° = \frac{a^2 + (a+3)^2 - (a+2)^2}{2a(a+3)} = \frac{1}{2}$$
 
-$$a^2 + a^2 + 6a + 9 - a^2 - 4a - 4 = a(a+3)$$ $$a^2 + 2a + 5 = a^2 + 3a \implies a = 5 \text{ cm}$$ ✅
+$$a^2 + a^2 + 6a + 9 - a^2 - 4a - 4 = a(a+3)$$ $$a^2 + 2a + 5 = a^2 + 3a \implies a = 5 \text{ cm}$$
 
 ---
 
@@ -115,12 +106,12 @@ $$\alpha + \beta + \gamma = 180°$$
 
 ### Obsah trojúhelníku – různé vzorce:
 
-|Vzorec|Kdy použít|
-|---|---|
-|$S = \frac{1}{2} a \cdot h_a$|znám stranu a výšku|
-|$S = \frac{1}{2} ab \sin \gamma$|znám 2 strany a sevřený úhel|
-|$S = \frac{abc}{4R}$|znám 3 strany a opsanou kružnici|
-|Heronův vzorec: $S = \sqrt{s(s-a)(s-b)(s-c)}$|znám 3 strany; $s = \frac{a+b+c}{2}$|
+| Vzorec                                        | Kdy použít                           |
+| --------------------------------------------- | ------------------------------------ |
+| $S = \frac{1}{2} a \cdot h_a$                 | znám stranu a výšku                  |
+| $S = \frac{1}{2} ab \sin \gamma$              | znám 2 strany a sevřený úhel         |
+| $S = \frac{abc}{4R}$                          | znám 3 strany a opsanou kružnici     |
+| Heronův vzorec: $S = \sqrt{s(s-a)(s-b)(s-c)}$ | znám 3 strany; $s = \frac{a+b+c}{2}$ |
 
 ### Poloměry kružnic:
 
@@ -172,7 +163,7 @@ Přesněji: $S = \frac{1}{2} u \cdot v \cdot \sin \varphi$ kde $\varphi$ je úhe
 
 Z kosinovy věty: $a^2 = \left(\frac{u}{2}\right)^2 + \left(\frac{v}{2}\right)^2 - 2\cdot\frac{u}{2}\cdot\frac{v}{2}\cos\varphi$ $$58^2 = 44{,}5^2 + 26^2 - 2\cdot44{,}5\cdot26\cdot\cos\varphi$$ $$\cos\varphi = \frac{1980{,}25 + 676 - 3364}{2313} \approx -0{,}2974 \implies \varphi \approx 107°17'$$
 
-$S = \frac{1}{2}\cdot89\cdot52\cdot\sin(107°17') \approx 2203$ cm² ✅
+$S = \frac{1}{2}\cdot89\cdot52\cdot\sin(107°17') \approx 2203$ cm² 
 
 ---
 
@@ -201,7 +192,7 @@ Označme výšku mraku nad hladinou $H$, vodorovnou vzdálenost $d$: $$\tan \alp
 
 Vydělíme: $\frac{\tan \beta}{\tan \alpha} = \frac{H + 115}{H - 115}$
 
-$H(\tan\beta - \tan\alpha) = 115(\tan\beta + \tan\alpha) \implies H = 115 \cdot \frac{\tan\beta + \tan\alpha}{\tan\beta - \tan\alpha} \approx 1438$ m ✅
+$H(\tan\beta - \tan\alpha) = 115(\tan\beta + \tan\alpha) \implies H = 115 \cdot \frac{\tan\beta + \tan\alpha}{\tan\beta - \tan\alpha} \approx 1438$ m 
 
 ---
 
@@ -213,7 +204,7 @@ Vzdálenosti pozorovatelny od bodu pod letadlem: $$d_1 = \frac{h}{\tan \alpha_1}
 
 Uletěná vzdálenost: $\Delta d = d_1 - d_2 = h\left(\frac{1}{\tan\alpha_1} - \frac{1}{\tan\alpha_2}\right)$
 
-$$= 3500\left(\frac{1}{\tan 25°} - \frac{1}{\tan 48°}\right) = 3500(2{,}145 - 0{,}900) \approx 4354 \text{ m}$$ ✅
+$$= 3500\left(\frac{1}{\tan 25°} - \frac{1}{\tan 48°}\right) = 3500(2{,}145 - 0{,}900) \approx 4354 \text{ m}$$ 
 
 ---
 
@@ -221,7 +212,7 @@ $$= 3500\left(\frac{1}{\tan 25°} - \frac{1}{\tan 48°}\right) = 3500(2{,}145 - 
 
 Pozorovatel P, předmět délky $a = 12$ m, vzdálenosti $PA = 15$ m, $PB = 24$ m.
 
-Z kosinové věty v trojúhelníku PAB: $$\cos \varphi = \frac{PA^2 + PB^2 - AB^2}{2 \cdot PA \cdot PB} = \frac{225 + 576 - 144}{720} = \frac{657}{720} \approx 0{,}9125 \implies \varphi \approx 24°9'$$ ✅
+Z kosinové věty v trojúhelníku PAB: $$\cos \varphi = \frac{PA^2 + PB^2 - AB^2}{2 \cdot PA \cdot PB} = \frac{225 + 576 - 144}{720} = \frac{657}{720} \approx 0{,}9125 \implies \varphi \approx 24°9'$$
 
 ---
 
@@ -235,7 +226,7 @@ $$F^2 = F_1^2 + F_2^2 - 2F_1 F_2 \cos(180° - \alpha) = F_1^2 + F_2^2 + 2F_1 F_2
 
 **Příklad (úloha 5):** $F_1 = 84{,}5$ N, $F_2 = 47{,}8$ N, $\alpha = 56°40'$
 
-$$F = \sqrt{84{,}5^2 + 47{,}8^2 + 2\cdot84{,}5\cdot47{,}8\cdot\cos56°40'} \approx 117{,}75 \text{ N}$$ ✅
+$$F = \sqrt{84{,}5^2 + 47{,}8^2 + 2\cdot84{,}5\cdot47{,}8\cdot\cos56°40'} \approx 117{,}75 \text{ N}$$ 
 
 **Rozklad síly** $F$ na dvě složky $F_1$, $F_2$ svírající s ní úhly $\alpha$ a $\beta$:
 
@@ -243,7 +234,7 @@ Ze sinové věty v trojúhelníku sil (úhel u $F$ = $180° - \alpha - \beta$): 
 
 **Příklad (úloha 6):** $F = 2217{,}6$ N, $\alpha = 46°32'$, $\beta = 54°12'$
 
-$$F_1 = \frac{2217{,}6\cdot\sin54°12'}{\sin(100°44')} \approx 1830{,}6 \text{ N}$$ ✅
+$$F_1 = \frac{2217{,}6\cdot\sin54°12'}{\sin(100°44')} \approx 1830{,}6 \text{ N}$$ 
 
 ---
 
@@ -251,7 +242,7 @@ $$F_1 = \frac{2217{,}6\cdot\sin54°12'}{\sin(100°44')} \approx 1830{,}6 \text{ 
 
 **Příkop s profilem rovnoramenného lichoběžníku:** dno $d = 2{,}75$ m, ramena $r = 3{,}5$ m, úhel $\alpha = 28°$
 
-Výška: $h = r\sin\alpha = 3{,}5\cdot\sin28° \approx 1{,}64$ m Přesah ramene: $x = r\cos\alpha = 3{,}5\cdot\cos28° \approx 3{,}09$ m Šířka nahoře: $s = d + 2x = 2{,}75 + 6{,}18 \approx 8{,}93$ m ✅
+Výška: $h = r\sin\alpha = 3{,}5\cdot\sin28° \approx 1{,}64$ m Přesah ramene: $x = r\cos\alpha = 3{,}5\cdot\cos28° \approx 3{,}09$ m Šířka nahoře: $s = d + 2x = 2{,}75 + 6{,}18 \approx 8{,}93$ m 
 
 **Šířka řeky (úloha 10):**
 
@@ -261,7 +252,7 @@ Vzdálenost k bližšímu břehu řeky: $\tan\alpha_1 = \frac{v}{l} \implies \al
 
 Označme $\alpha_1$ úhel hloubkový k bližšímu břehu, $\alpha_2 = \alpha_1 - \varphi$ k vzdálenějšímu: $$\text{šířka} = v\left(\frac{1}{\tan\alpha_2} - \frac{1}{\tan\alpha_1}\right) - l + l = v(\cot\alpha_2 - \cot\alpha_1)$$
 
-Numericky: $\alpha_1 = \arctan(15/30) = 26{,}57°$, $\alpha_2 = 26{,}57° - 15° = 11{,}57°$ $$\text{šířka} = 15(\cot11{,}57° - \cot26{,}57°) \approx 15(4{,}89 - 2) \approx 43{,}3 \text{ m}$$ ✅
+Numericky: $\alpha_1 = \arctan(15/30) = 26{,}57°$, $\alpha_2 = 26{,}57° - 15° = 11{,}57°$ $$\text{šířka} = 15(\cot11{,}57° - \cot26{,}57°) \approx 15(4{,}89 - 2) \approx 43{,}3 \text{ m}$$
 
 ---
 
@@ -273,7 +264,7 @@ Z definice: $\tan\alpha = \frac{a}{b} \implies a = b\tan\alpha$
 
 Dosadíme: $b\tan\alpha + b = 9{,}6 \implies b = \frac{9{,}6}{1 + \tan37°30'} = \frac{9{,}6}{1 + 0{,}7673} \approx 4{,}17$ m
 
-$a = 9{,}6 - 4{,}17 = 5{,}43$ m, $c = \frac{a}{\sin\alpha} = \frac{5{,}43}{\sin37°30'} \approx 6{,}85$ m ✅
+$a = 9{,}6 - 4{,}17 = 5{,}43$ m, $c = \frac{a}{\sin\alpha} = \frac{5{,}43}{\sin37°30'} \approx 6{,}85$ m 
 
 ---
 
@@ -320,15 +311,3 @@ PRAKTICKÉ VZORCE:
   SSÚ  → sinová věta → OVĚŘIT 2 řešení
 ```
 
----
-
-## 17.11 Nejčastější chyby
-
-|Chyba|Správně|
-|---|---|
-|U SSÚ zapomenout na druhé řešení|$\beta_2 = 180° - \beta_1$ — zkontroluj $\alpha + \beta_2 < 180°$|
-|Zaměnit výškový a hloubkový úhel|Výškový = nahoru, hloubkový = dolů od horizontály|
-|Úhel mezi silami ≠ vnitřní úhel trojúhelníku sil|Vnitřní úhel = $180° - \alpha$|
-|$\cos$ záporný → zapomenout, že úhel je tupý|Kalkulačka dá kladný výsledek → ověř znaménko|
-|Zaměnit $c_a$ (úsek u $a$) při Euklidovi|Bezproblémové jen u kosinové/sinové věty|
-|U lichoběžníku neidentifikovat správné trojúhelníky|Nakresli si, spusť výšky|

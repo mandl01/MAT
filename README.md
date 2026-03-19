@@ -25,4 +25,3 @@
 | 11.2.2026     | 12 - Uziti trigonometrie v praxi, ulohy o obecnem trojuhelniku, popr. ctyruhelniku, resene uzitim trigonometrie_MO17   |
 | 18.2.2026     | 13 - Komplexni cisla_MO24   |
 | 25.2.2026     | 14 - Metricke vztahy utvaru v prostoru, obsahy, objemy, povrchy_MO23   |
-| 4.3.2026     | 15 - Kontstrukcni ulohy_MO20   |
